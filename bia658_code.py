@@ -17,6 +17,9 @@ Fix some bugs of db related.
 Dec 5
 @Wolfric
 Created part for collected sencond degree followers' id
+
+Dec13
+Upload to Github
 """
 
 import time
