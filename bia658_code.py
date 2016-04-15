@@ -672,7 +672,7 @@ def insert_second_degree_follower_id(target_table, location='New York, NY'):
      where location=%s'''%location
     sql_return=db_sql_run(sql1)
     for r in sql_return:
-        sql2="INSERT INTO"+ db_name+'.'++target_table+''' (twitter_Id, follower_Id) 
+        sql2="INSERT INTO"+ db_name+'.'+target_table+''' (twitter_Id, follower_Id) 
                 VALUES ("%s", "%s")'''%(r[1],r[0])
         with con.cursor() as cursor: 
             cursor.execute(sql2)                
