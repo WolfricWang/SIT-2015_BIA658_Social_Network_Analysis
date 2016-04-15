@@ -49,12 +49,12 @@
 
 ### From the Data
 
-[Big Picture].(https://www.google.com/fusiontables/DataSource?docid=1qdaSGMHckgmVaZMu1P2_nGxyhcONFYapab8cDkDw#map:id=3)The darker the more like be a Republican.
+[Big Picture](https://www.google.com/fusiontables/DataSource?docid=1qdaSGMHckgmVaZMu1P2_nGxyhcONFYapab8cDkDw#map:id=3). The darker the more like be a Republican.
 ![map1](https://github.com/WolfricWang/SIT-2015_BIA658_Social_Network_Analysis/blob/master/pic_log/map1.PNG)
 
 People in Southeast have a higher preference for Republican Party.
 
-Only see [New York]. (https://www.google.com/fusiontables/DataSource?docid=10Hk9tv9zSI-V5nCFxC5A55Wg5cz-BlGwvVLfnWuy#map:id=3)Blue is Republican, Red is Democratic.
+Only see [New York](https://www.google.com/fusiontables/DataSource?docid=10Hk9tv9zSI-V5nCFxC5A55Wg5cz-BlGwvVLfnWuy#map:id=3). Blue is Republican, Red is Democratic.
 ![map2](https://github.com/WolfricWang/SIT-2015_BIA658_Social_Network_Analysis/blob/master/pic_log/map2.PNG)
 
 
